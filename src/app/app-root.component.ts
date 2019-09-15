@@ -2,9 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.sass']
+  templateUrl: './app-root.component.html',
 })
-export class AppComponent {
+export class AppRootComponent {
   title = 'KII Place';
 }
